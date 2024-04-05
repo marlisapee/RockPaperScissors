@@ -4,7 +4,7 @@ This game allows any user to play the classic "Rock Paper Scissors" game with th
 
 ## Get Started
 
-1. Clone Repository `git clone git@github.com:marlisapee/RockPaperScissors.git`
+1. `git clone git@github.com:marlisapee/RockPaperScissors.git`
 2. `npm install`
 3. `npm run start`
 
